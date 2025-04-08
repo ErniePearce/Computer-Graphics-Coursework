@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\22505554\OneDrive - MMU\Documents\GitHub\Computer-Graphics-Coursework\external\glfw-3.1.2\examples\heightmap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\22505554\OneDrive - MMU\Documents\GitHub\Computer-Graphics-Coursework\external\glfw-3.1.2\deps\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\22505554\OneDrive - MMU\Documents\GitHub\Computer-Graphics-Coursework\external\glfw-3.1.2\deps\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\22505554\OneDrive - MMU\Documents\GitHub\Computer-Graphics-Coursework\external\glfw-3.1.2\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D8C4B98F-A6DC-33BD-BA59-05B10BFE285E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{25F579F3-CC86-3444-B670-9A57DDE9601A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

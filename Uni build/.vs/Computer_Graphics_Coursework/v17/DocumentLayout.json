@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\Uni build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA8497E-8044-3F09-BC3D-C7CE3353B5F1}|Computer_Graphics_Coursework.vcxproj|C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA8497E-8044-3F09-BC3D-C7CE3353B5F1}|Computer_Graphics_Coursework.vcxproj|C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maths.cpp",
+              "DocumentMoniker": "C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.cpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.cpp",
+              "ToolTip": "C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.cpp",
+              "RelativeToolTip": "..\\common\\maths.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T09:20:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maths.hpp",
+              "DocumentMoniker": "C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.hpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.hpp",
+              "ToolTip": "C:\\Users\\22505554\\OneDrive - MMU\\Documents\\GitHub\\Computer-Graphics-Coursework\\common\\maths.hpp",
+              "RelativeToolTip": "..\\common\\maths.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T08:42:54.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
